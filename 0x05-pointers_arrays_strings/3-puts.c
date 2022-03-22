@@ -6,6 +6,5 @@
 */
 void _puts(char *str)
 {
-	str = "Holberton!";
-	_puts(str);
+	_putchar(str);
 }
